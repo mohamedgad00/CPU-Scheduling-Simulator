@@ -1,11 +1,11 @@
 # CPU Scheduling Simulator
 
-A Java-based CPU Scheduling Simulator that allows users to simulate and analyze various CPU scheduling algorithms including:
+A Java-based CPU Scheduling Simulator that allows users to simulate and analyze various CPU scheduling algorithms including :
 
-- First Come First Serve (FCFS)
-- Shortest Job First (SJF)
-- Priority Scheduling
-- Round Robin (RR)
+   - First Come First Serve (FCFS)
+   - Shortest Job First (SJF)
+   - Priority Scheduling
+   - Round Robin (RR)
 
 ## 🧠 Features
 
@@ -43,16 +43,17 @@ A Java-based CPU Scheduling Simulator that allows users to simulate and analyze 
 
 ### Running the Project
 
-1. Clone the repository:
+1. *Clone the repository :*
    ```bash
-   git clone https://github.com/yourusername/cpu-scheduling-simulator.git
-   cd cpu-scheduling-simulator
+      git clone https://github.com/yourusername/cpu-scheduling-simulator.git
+      cd cpu-scheduling-simulator
    ```
-2. Compile the Java files:
+2. *Compile the Java files :*
   ```bash
-  javac *.java
-```
-3. Run the simulator:
+     javac *.java
   ```
-  java Main
+3. *Run the simulator :*
+  ```
+     java Main
+  ```
 
