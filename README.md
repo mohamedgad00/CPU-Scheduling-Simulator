@@ -44,16 +44,16 @@ A Java-based CPU Scheduling Simulator that allows users to simulate and analyze 
 ### Running the Project
 
 1. *Clone the repository :*
-   ```bash
-   git clone https://github.com/yourusername/cpu-scheduling-simulator.git
-   cd cpu-scheduling-simulator
-   ```
+```bash
+git clone https://github.com/yourusername/cpu-scheduling-simulator.git
+cd cpu-scheduling-simulator
+```
 2. *Compile the Java files :*
-  ```bash
-     javac *.java
-  ```
+```bash
+javac *.java
+```
 3. *Run the simulator :*
-  ```
-     java Main
-  ```
+```
+java Main
+```
 
